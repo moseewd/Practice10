@@ -1,0 +1,7 @@
+C:\Users\Данила\source\repos\practice10\practice10\bin\Debug\practice10.exe.config
+C:\Users\Данила\source\repos\practice10\practice10\bin\Debug\practice10.exe
+C:\Users\Данила\source\repos\practice10\practice10\bin\Debug\practice10.pdb
+C:\Users\Данила\source\repos\practice10\practice10\obj\Debug\practice10.csprojResolveAssemblyReference.cache
+C:\Users\Данила\source\repos\practice10\practice10\obj\Debug\practice10.csproj.CoreCompileInputs.cache
+C:\Users\Данила\source\repos\practice10\practice10\obj\Debug\practice10.exe
+C:\Users\Данила\source\repos\practice10\practice10\obj\Debug\practice10.pdb
